@@ -25,7 +25,7 @@ ini_set('log_errors', 1);
 ini_set('error_log', __DIR__ . '/error.log');
 
 // **IMPORTANT:** Replace with your **hosting** Telegram bot token obtained from @BotFather
-define('HOSTING_BOT_TOKEN', '8152559073:AAF_D16fpE-_Ly919mCcVtEwSHAXGU2Q2nM'); // Replace with your actual hosting bot token
+define('HOSTING_BOT_TOKEN', '8152559...'); // Replace with your actual hosting bot token
 
 // Define the base directory for storing user files
 define('BASE_DIR', __DIR__ . '/user_bots/');
